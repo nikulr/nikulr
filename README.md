@@ -5,23 +5,24 @@
 ## 🧠 About Me
 I'm a Pune-based tech enthusiast with a passion for Multi-Cloud DevOps. I love building scalable systems, automating workflows, and sharing knowledge with a touch of humor.
 
-## 🔗 Connect with Me
+## 🌐 Connect with Me
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](www.linkedin.com/in/rakesh-nikule-61b160a7)
 
 ## 🧰 Tech Stack
-**Languages & Web:** Python 
+**Languages ** Python 
 **Cloud & DevOps:** AWS, Azure, Docker, Kubernetes, Terraform, GitHub Actions, GitLab CI  
 **Servers & Frameworks:** Apache, Maven, NGINX, Jenkins, Tomcat  
 **Databases:** DynamoDB, ArangoDB, MariaDB, MySQL  
 **Design & VCS:** Adobe, Canva, Git, GitHub, GitLab, Bitbucket  
 **Monitoring & PM:** Grafana, JIRA, Prometheus, Splunk, Trello, Rancher  
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikulr&show_icons=true&theme=radical)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=nikulr&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=nikulr&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nikulr&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 💬 Dev Quote
-> “A skilled programmer is like a poet who can put into words those ideas that others find inexpressible.”  
-> — Danny Hillis
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## 📌 Featured Repositories
 - 🚀 [MultiCloudDevOps](https://github.com/nikulr/90DaysOfDevOps): Multi-Cloud-DevOps
