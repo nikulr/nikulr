@@ -24,5 +24,5 @@ I'm a Pune-based tech enthusiast with a passion for Multi-Cloud DevOps. I love b
 > — Danny Hillis
 
 ## 📌 Featured Repositories
-- 🔧 [learnawsdevops211225](https://github.com/nikulr/learnawsdevops211225): Learn AWS DevOps
+- 🔧 https://github.com/nikulr/MultiCloudDevOps
 - 🚀 [90DaysOfDevOps](https://github.com/nikulr/90DaysOfDevOps): DevOps challenge for community growth
