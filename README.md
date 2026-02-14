@@ -15,7 +15,8 @@ I'm a Pune-based tech enthusiast with a passion for Multi-Cloud DevOps, Cloud Se
 **Databases:** DynamoDB, ArangoDB, MariaDB, MySQL  
 **Design & VCS:** Adobe, Canva, Git, GitHub, GitLab, Bitbucket  
 **Monitoring & PM:** Grafana, JIRA, Prometheus, Splunk, Trello, Rancher
-**Security & GRC:** GRC, Cloud Security, IT Audit, ISO
+**Security & GRC:** Cloud Security, Information Security, IT Audit  
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=nikulr&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
