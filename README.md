@@ -9,7 +9,7 @@ I'm a Pune-based tech enthusiast with a passion for Multi-Cloud DevOps, Cloud Se
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](www.linkedin.com/in/rakesh-nikule-61b160a7)
 
 ## 🧰 Tech Stack
-**Cloud & DevOps:** AWS, Azure, Docker, Kubernetes, Terraform, GitHub Actions, GitLab CI  
+**Cloud & DevOps:** AWS, Azure, Docker, Kubernetes, Terraform, GitHub Actions, GitLab CI
 **Languages:** Python, Linux
 **Servers & Frameworks:** Apache, Maven, NGINX, Jenkins, Tomcat  
 **Databases:** DynamoDB, ArangoDB, MariaDB, MySQL  
@@ -19,9 +19,9 @@ I'm a Pune-based tech enthusiast with a passion for Multi-Cloud DevOps, Cloud Se
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=nikulr&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=nikulr&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nikulr&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=nikulr1011&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=nikulr1011&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nikulr1011&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
