@@ -3,7 +3,7 @@
 ## Multi_Cloud_DevOps,  Cloud Architecture, Cloud Security, Information Security, IT Audit and GRC
 
 ## 🧠 About Me
-I'm a Pune-based tech enthusiast with a passion for Multi-Cloud DevOps, Cloud Security & Complience, Cloud Architecture. I love building scalable systems, automating workflows, and sharing knowledge with a touch of humor.
+I'm a Pune-based tech enthusiast with a passion for Multi-Cloud DevOps, Cloud Security & Complience, Cloud Architecture, Information Security, IT audit and GRC. 
 
 ## 🌐 Connect with Me
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](www.linkedin.com/in/rakesh-nikule-61b160a7)
@@ -15,7 +15,7 @@ I'm a Pune-based tech enthusiast with a passion for Multi-Cloud DevOps, Cloud Se
 **Databases:** DynamoDB, ArangoDB, MariaDB, MySQL  
 **Design & VCS:** Adobe, Canva, Git, GitHub, GitLab, Bitbucket  
 **Monitoring & PM:** Grafana, JIRA, Prometheus, Splunk, Trello, Rancher  
-**Security & GRC:** Cloud Security, Information Security, IT Audit  
+**Security & GRC:** Cloud Security, Information Security, IT Audit and GRC  
 
 
 # 📊 GitHub Stats:
